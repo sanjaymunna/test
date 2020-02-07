@@ -16,12 +16,12 @@ The configuration can be passed via environment variables as follows:
 
 Please set the following environment variable:
 #### 1.              On Linux
-			export feedPath = "/home/feed"
+	export feedPath = "/home/feed"
 
 
 
 #### 2.            	Windows
-			set feedPath = "C:\\feed\\"
+	set feedPath = "C:\\feed\\"
 
 
 
@@ -30,7 +30,7 @@ Please set the following environment variable:
 #### Request Payload for Product of Ingredient, Simple Item, Option Set, Option Set Item, Customized Item, Offer Group, and Offer on Offer Feed processing:-
 
 
-#### URL : 
+#### API endpoint : 
 	http://<IPAddress>:<PORT_NO>/commerce/products
 
 #### Method Type :	POST
