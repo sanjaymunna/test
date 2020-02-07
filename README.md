@@ -15,7 +15,7 @@ Option Set Item, Customized Item, Offer Group, and Offer on Offer Feed processin
 URL:- http://<IP>:<PORT_NO>/commerce/products
 Method Type:-POST
 Body:-
-a). Ingredient
+1.   Ingredient
     {
 		"itemClassification":"Ingredient",
 		"fileNames":["Ingredients ( IC).csv"]
