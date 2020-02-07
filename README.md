@@ -15,13 +15,13 @@ The configuration can be passed via environment variables as follows:
 ###  Configuration via environment variable:
 
 Please set the following environment variable:
-1.              On Linux
-		export feedPath = "/home/feed"
+#### 1.              On Linux
+			export feedPath = "/home/feed"
 
 
 
-2.              Windows
-		set feedPath = "C:\\feed\\"
+#### 2.            	Windows
+			set feedPath = "C:\\feed\\"
 
 
 
@@ -31,7 +31,7 @@ Please set the following environment variable:
 
 
 #### URL : 
-	http://<IPAddress>:<Port_No.>/commerce/products
+	http://<IPAddress>:<PORT_NO>/commerce/products
 
 #### Method Type :	POST
 
